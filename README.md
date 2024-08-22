@@ -103,7 +103,7 @@ Responsibilities:
 6.Collaboration: Work with developers to understand new features, provide feedback on potential issues, and ensure that quality standards are maintained throughout the development lifecycle.
 7.Continuous Improvement: Advocate for and contribute to the improvement of testing processes, tools, and methodologies.
 3. Project Manager
-Role:
+ Role:
 The Project Manager (PM) is responsible for planning, executing, and closing software projects. They ensure that projects are completed on time, within scope, and within budget, while also managing resources and stakeholder expectations.
 
 Responsibilities:
